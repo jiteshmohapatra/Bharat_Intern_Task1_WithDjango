@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background: url(conpic.jpeg); */
+    background-color:deepskyblue;
+    background-size: cover;
+    border: solid rgba(255, 255, 255, 0.811) 20px;
+    color: #fff;
+  }
+  h1 {
+    font-size: 28px;
+  margin-left: 80px;
+    text-align: center;
+    padding: 10px;
+  }
+  h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    text-align: center;
+  }
+  #container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  #addForm,
+  #articleTable {
+    /*background-color: #222; */
+    background: url(conpic.jpeg);
+    background-size: cover;
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  input[type="text"],
+  textarea {
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    border: solid lightyellow;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  textarea#content {
+    padding-bottom: 200px;
+  }
+  button {
+    padding: 5px 20px;
+    background-color: orange;
+    color: #fff;
+    border: solid black;
+    border-radius: 0px;
+    cursor: pointer;
+  }
+  button.btn-delete {
+    background-color:red;
+  }
+  button:hover {
+    opacity: 0.8;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    color: #fff;
+  }
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+  }
+  th {
+    background-color: #111;
+    cursor: pointer;
+  }
+  .btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .article-title {
+    cursor: pointer;
+  }
+  .article-content {
+    display: none;
+    padding: 10px;
+    background-color: #333;
+    white-space: pre;
+    margin-top: 10px;
+    display: none;
+  }
+  .options {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+  }
+  
+  @media (max-width: 768px) {
+  }
+
+  @media (max-width: 480px) {
+    /* Additional responsive CSS rules for smaller screens */
+}
