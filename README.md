@@ -9,8 +9,10 @@ This is my source code for the task1 project
 **Internship Starts From:** 10 September 2023 to 
 
 ## Contents
+- [Offer Letter](https://github.com/jiteshmohapatra/Bharat_Intern_Task1_WithDjango/blob/67057f9178746ec3725e15e1f935b1cf8b5628b3/offerletter.pdf)
+- [OutPut](https://github.com/jiteshmohapatra/Bharat_Intern_Task1_WithDjango/blob/67057f9178746ec3725e15e1f935b1cf8b5628b3/Task-1%20output%20picture.png)
 
-- [Offer Letter]https://github.com/jiteshmohapatra/Bharat_Intern_Task1_WithDjango/blob/9e5fc514416e4f784ab1c3ec0419029883e0b30c/offerletter.pdf
+
 
 ## About
 
@@ -18,8 +20,6 @@ This repository contains the tasks, projects, and progress related to my Full-St
 
 Feel free to explore the tasks and documents linked above to get a better understanding of the internship's scope and my contributions.
 
-##OutPut Link
-https://github.com/jiteshmohapatra/Bharat_Intern_Task1_WithDjango/blob/9e5fc514416e4f784ab1c3ec0419029883e0b30c/Task-1%20output%20picture.png
 
 ## Contact
 
