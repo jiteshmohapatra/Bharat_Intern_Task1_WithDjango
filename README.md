@@ -23,7 +23,7 @@ Feel free to explore the tasks and documents linked above to get a better unders
 
 ## Contact
 
-If you have any questions, suggestions, or would like to connect, feel free to reach out to me at [ My Linkedin ]linkedin.com/in/jitesh-mohapatra-2ba94b200
+If you have any questions, suggestions, or would like to connect, feel free to reach out to me at [ My Linkedin ](http://www.linkedin.com/in/jitesh-mohapatra-2ba94b200)
 
 Looking forward to an enriching internship experience!
 
