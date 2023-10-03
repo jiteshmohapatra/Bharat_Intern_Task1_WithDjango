@@ -6,7 +6,7 @@ This is my source code for the task1 project
 
 "**Welcome [n_n]**" to the repository for my **Full-Stack Intern tasks at Bharat Intern**, where I'll be sharing my progress and work throughout the internship period.
 
-**Internship Starts From:** 10 September 2023 to 
+**Internship Starts From:** 10 September 2023 to October 10
 
 ## Contents
 - [Offer Letter](https://github.com/jiteshmohapatra/Bharat_Intern_Task1_WithDjango/blob/67057f9178746ec3725e15e1f935b1cf8b5628b3/offerletter.pdf)
